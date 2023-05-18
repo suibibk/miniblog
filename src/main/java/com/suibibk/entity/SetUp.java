@@ -15,7 +15,7 @@ public class SetUp{
 	private String name="迷你酱";//姓名
 	private String qq="XXXXXXXXX";
 	private String email="XXXXXX@XX.XXX";
-	private String desc="迷你博客，记录生活";
+	private String desc="迷你博客，记录生活1";
 	private String password = "7b3cb97050ead66122f4b9812904b55d1a50efbc90f10743d073c89c24dfbaed";
 	
 	private String hash="";//hash值
